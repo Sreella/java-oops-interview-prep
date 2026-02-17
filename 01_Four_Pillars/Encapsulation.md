@@ -38,3 +38,14 @@ class BankAccount {
         return balance;
     }
 }
+
+## 5. Key Interview Points
+
+Achieved using private variables + public getters/setters
+
+Improves maintainability
+
+Prevents accidental modification
+
+Core principle for secure systems
+
